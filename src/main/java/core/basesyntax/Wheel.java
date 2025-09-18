@@ -39,7 +39,6 @@ public class Wheel implements Cloneable {
         return Objects.hash(radius);
     }
 
-
     @Override
     public String toString() {
         return "Wheel{"
